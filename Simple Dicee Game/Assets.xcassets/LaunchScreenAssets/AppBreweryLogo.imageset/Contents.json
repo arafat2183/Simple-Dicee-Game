@@ -1,15 +1,17 @@
 {
   "images" : [
     {
+      "filename" : "Screenshot 2023-07-10 at 15.31.34.png",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
-      "filename" : "AppBreweryLogo.png",
+      "filename" : "Screenshot 2023-07-10 at 15.31.34@2x.png",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
+      "filename" : "Screenshot 2023-07-10 at 15.31.34@3x.png",
       "idiom" : "universal",
       "scale" : "3x"
     }
